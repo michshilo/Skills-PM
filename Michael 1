@@ -1,0 +1,203 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js"></script>
+  </head>
+  <body>
+    <div class="table-title" style="background-color:DodgerBlue;">ניהול שרת ותקשורת</div>
+    <table>
+      <thead>
+        <th>Subject</th>
+        <th>Level of knowledge
+        </th>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="innertabletitle" style="background-color:orange">http</td>
+          <td>5</td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="innertabletitle" style="background-color:green">API</td>
+          <td>5</td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="innertabletitle" style="background-color:green">SQL</td>
+          <td>5</td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="innertabletitle" style="background-color:green">noSQL</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td class="innertabletitle" style="background-color:orange">Load balancing is a proccess of balancing sets of tasks between servers</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td class="innertabletitle" style="background-color:red">GitHub is a shared coding platform</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td class="innertabletitle" style="background-color:orange">Dns is for organizing domains</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td class="innertabletitle" style="background-color:green">server</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td class="innertabletitle" style="background-color:green">Domain is like the address or name of a website</td>
+          <td>5</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div class="table-title" style="background-color:DodgerBlue;">פיתוח פרונט</div>
+    <table>
+      <thead>
+        <th>Subject</th>
+        <th>Level of knowledge</th>
+      </thead>
+      <tbody></tbody>
+      <tbody>
+        <tr>
+          <td class="innertabletitle" style="background-color:red">Devops is work method linking operation and dev</td>
+          <td>5</td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="innertabletitle" style="background-color:red">Ionic</td>
+          <td>5</td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="innertabletitle" style="background-color:green">Raect native is a cross platform based on js</td>
+          <td>5</td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="innertabletitle" style="background-color:orange">swift is a framework for ios mobile</td>
+          <td>5</td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="innertabletitle" style="background-color:green">flutter is a cross platform mobile framework</td>
+          <td>5</td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td  class="innertabletitle" style="background-color:green">framework</td>
+          <td>5</td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="innertabletitle" style="background-color:red">.Net is a framwork for Windows</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td class="innertabletitle" style="background-color:orange">Kotlin is a cross programing language</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td class="innertabletitle" style="background-color:green">React is a framwork by facebook very common for web</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td class="innertabletitle" style="background-color:green">Drupla is a cms</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td class="innertabletitle" style="background-color:red">phone gap?</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td class="innertabletitle" style="background-color:green">Wordpress is a cms</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td class="innertabletitle" style="background-color:green">Angular is a framework by google</td>
+          <td>5</td>
+        </tr>
+      </tbody>
+    </table>
+    <div class="table-title" style="background-color:DodgerBlue;">ענן וניהול גרסאות</div>
+    <table>
+      <thead>
+        <th>Subject</th>
+        <th>Level of knowledge</th>
+      </thead>
+      <tbody></tbody>
+      <tbody>
+        <tr>
+          <td class="innertabletitle" style="background-color:red">Test flight (to test vesrsions with users)</td>
+          <td>5</td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="innertabletitle" style="background-color:green">DB</td>
+          <td>5</td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="innertabletitle" style="background-color:orange">hosting?</td>
+          <td>5</td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="innertabletitle" style="background-color:orange">Node JS enables JS on backend</td>
+          <td>5</td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="innertabletitle" style="background-color:orange">S3 is an amazon storage for the internet</td>
+          <td>5</td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td class="innertabletitle" style="background-color:orange">Azure is a cloud storage by Microsoft</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td class="innertabletitle" style="background-color:green">MongoDb</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td class="innertabletitle" style="background-color:orange">aws is the storage service of amazon</td>
+          <td>5</td>
+        </tr>
+      </tbody>
+    </table>
+    <table>
+      <tr>
+          <td>
+              <input onclick="myFunction()" type="button" value="press">
+          </td>
+      </tr>
+    </table>
+    <script>
+      function myFunction() {
+        var x = document.getElementsByClassName("innertabletitle")
+        for(var i=0; i<x.length; i++){
+          x[i].style.background="white"
+        } 
+      }
+    </script>
+  </body>
+</html>
+
